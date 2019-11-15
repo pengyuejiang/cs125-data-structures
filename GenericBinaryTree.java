@@ -14,9 +14,7 @@ public class GenericBinaryTree<E extends Comparable<E>> {
     private Node root;
 
     /** Empty constructor to generate a new binary tree. */
-    public GenericBinaryTree() {
-        
-    }
+    public GenericBinaryTree() {}
 
     /**
      * Return the size of the tree.
